@@ -1,39 +1,48 @@
 
 <div align="center">
 
-# Anish Singh
+<h1>Anish Singh</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Turning+ideas+into+something+that+actually+works" alt="Typing SVG" />
 
 </div>
-</div>
-</div>
 
-# Languages
+<br/>
+
+<h3>Languages</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,js" />
 </p>
+
+<br/>
+
 <h3>Development & Technologies</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,supabase,github" />
-</p> 
+</p>
+
+<br/>
 
 <h3>Featured Projects</h3>
-### LINKFORGEE
-A modern URL shortener with authentication, analytics and click tracking.
 
-[View Repository](https://github.com/anish-singh12/LINKFORGEE)
+<table>
+<tr>
+<td width="50%">
+<h3>LINKFORGEE</h3>
+<p>A URL shortener with user authentication, link management, analytics and click tracking.</p>
+<a href="https://github.com/anish-singh12/LINKFORGEE">View Repository →</a>
+</td>
+<td width="50%">
+<h3>EduAccess AI</h3>
+<p>An AI-powered learning platform that generates quizzes, simplified notes and concept maps from study materials.</p>
+<a href="https://github.com/anish-singh12/eduaccess-ai">View Repository →</a>
+</td>
+</tr>
+</table>
 
----
-
-### EduAccess AI
-An AI-powered learning platform that converts study materials into quizzes, simplified notes and concept maps.
-
-[View Repository](https://github.com/anish-singh12/eduaccess-ai)
-
----
+<br/>
 
 <h3>GitHub Statistics</h3>
 
@@ -44,7 +53,10 @@ An AI-powered learning platform that converts study materials into quizzes, simp
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anish-singh12&layout=compact&theme=github_dark&hide_border=true" height="165" />
 
 </div>
-## Connect With Me
+
+<br/>
+
+<h3>Connect With Me</h3>
 
 <p>
 <a href="https://github.com/anish-singh12">
