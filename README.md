@@ -1,13 +1,13 @@
 
 <div align="center">
 
-<h1>Anish Singh</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:172B35,100:263F4A&height=220&section=header&text=Anish%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=42&animation=fadeIn" />
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Turning+ideas+into+something+that+actually+works" alt="Typing SVG" />
 
 </div>
-
-<br/>
 
 <h3>Languages</h3>
 
