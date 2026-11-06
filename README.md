@@ -35,13 +35,13 @@ An AI-powered learning platform that converts study materials into quizzes, simp
 
 ---
 
-## GitHub Statistics
+<h3>GitHub Statistics</h3>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anish-singh12&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=anish-singh12&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-singh12&layout=compact&theme=github_dark&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-singh12&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 
 </div>
 
