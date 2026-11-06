@@ -16,9 +16,8 @@
 ## Development & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,supabase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,supabase,github" />
 </p>
-
 ## Featured Projects
 
 ### LINKFORGEE
