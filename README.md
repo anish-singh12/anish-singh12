@@ -2,13 +2,14 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:302B63,50:5B4B8A,100:B06AB3&height=200&section=header&text=Anish%20Singh&fontSize=58&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101B3D,50:164E80,100:20B8C5&height=210&section=header&text=Anish%20Singh&fontSize=58&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Turning+ideas+into+something+that+actually+works" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+ideas+into+something+that+actually+works" alt="Typing SVG" />
 
 </div>
+
 
 <h3>Languages</h3>
 
