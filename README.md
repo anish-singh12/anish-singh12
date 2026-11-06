@@ -9,17 +9,17 @@
 </div>
 </div>
 
-## Languages
+# Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,js" />
 </p>
-## Development & Technologies
+# Development & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,supabase,github" />
 </p>
-## Featured Projects
+# Featured Projects
 
 ### LINKFORGEE
 A modern URL shortener with authentication, analytics and click tracking.
