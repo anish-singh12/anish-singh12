@@ -1,30 +1,60 @@
 
-# Hi, I'm Anish Singh 👋
+<div align="center">
 
-### IT Student | Full-Stack Developer
+# Anish Singh
 
-Interested in building web applications and learning how software works.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=500&lines=IT+Student;Software+Developer;Full+Stack+Developer" alt="Typing SVG" />
 
-## Tech Stack
+</div>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js" />
+</p>
+
+## Development & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,supabase,git,github,vscode" />
+</p>
 
 ## Featured Projects
 
 ### LINKFORGEE
-A URL shortener with authentication, analytics and click tracking.
+A modern URL shortener with authentication, analytics and click tracking.
+
 [View Repository](https://github.com/anish-singh12/LINKFORGEE)
 
+---
+
 ### EduAccess AI
-An AI-powered learning platform for generating quizzes, simplified notes and concept maps.
+An AI-powered learning platform that converts study materials into quizzes, simplified notes and concept maps.
+
 [View Repository](https://github.com/anish-singh12/eduaccess-ai)
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anish-singh12&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-singh12&layout=compact&theme=github_dark&hide_border=true" height="165" />
+
+</div>
 
 ## Connect With Me
 
-- GitHub: https://github.com/anish-singh12
-- LinkedIn: https://www.linkedin.com/in/anish-singh-2a84b8388/
-- LeetCode: (https://leetcode.com/u/aniss72/)
+<p>
+<a href="https://github.com/anish-singh12">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/anish-singh-2a84b8388">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/anish72/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+</p>
