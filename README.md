@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**anish-singh12/anish-singh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Anish Singh 👋
 
-Here are some ideas to get you started:
+### IT Student | Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in building web applications and learning how software works.
+
+## Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+## Featured Projects
+
+### LINKFORGEE
+A URL shortener with authentication, analytics and click tracking.
+[View Repository](https://github.com/anish-singh12/LINKFORGEE)
+
+### EduAccess AI
+An AI-powered learning platform for generating quizzes, simplified notes and concept maps.
+[View Repository](https://github.com/anish-singh12/eduaccess-ai)
+
+## Connect With Me
+
+- GitHub: https://github.com/anish-singh12
+- LinkedIn: https://www.linkedin.com/in/anish-singh-2a84b8388/
+- LeetCode: (https://leetcode.com/u/aniss72/)
