@@ -3,16 +3,16 @@
 
 # Anish Singh
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=500&lines=IT+Student;Software+Developer;Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Full+Stack+Developer" alt="Full Stack Developer" />
 
+</div>
 </div>
 
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,js" />
 </p>
-
 ## Development & Technologies
 
 <p>
