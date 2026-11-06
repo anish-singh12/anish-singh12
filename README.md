@@ -14,13 +14,13 @@
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,js" />
 </p>
-# Development & Technologies
+<h3>Development & Technologies</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,supabase,github" />
-</p>
-# Featured Projects
+</p> 
 
+<h3>Featured Projects</h3>
 ### LINKFORGEE
 A modern URL shortener with authentication, analytics and click tracking.
 
